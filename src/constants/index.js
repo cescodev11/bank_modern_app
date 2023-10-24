@@ -69,8 +69,7 @@ export const feedback = [
   },
   {
     id: "feedback-2",
-    content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    content: "Hard work beats talents when talent never works hard.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
